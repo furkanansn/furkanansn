@@ -27,11 +27,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **GCP, Nodejs, Expressjs, TypeScript, React, Next, Mysql, RabbitMQ, Redis**
+I am an experienced Full Stack Developer with strong proficiency in both Java and TypeScript. I have strong knowledge in the Spring Framework, including Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Axon, JPA, Hibernate, TypeScript and JavaScript, with extensive experience in Node.js and Express.js with typeorm.
 
-- 🌱 I’m currently learning **Applied Data Science from WorldQuant University**
+I have strong knowledge in microservices architecture, CQRS, event-driven architectures, and multi-layered architecture. I have strong knowledge in Redis and RabbitMQ. I am well-versed in SOLID and ACID principles and proficient in database management for both relational and NoSQL databases. I am experienced in performance optimization, including scheduled cron jobs with Redis.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+I am skilled in unit and integration testing, including E2E testing with JUnit and Jest. I have comprehensive knowledge of React and its ecosystem, including hooks, Context API and Redux. I am also proficient in Next.js for server-side rendering and static site generation, CSS and pre-processors (Sass, Less), RESTful APIs and GraphQL. Additionally I am familiar with build tools like Webpack and Babel.
+
+I have worked with both Google Cloud Platform (GCP) and Amazon Web Services (AWS), utilizing cloud functions and Lambda functions. My professional experience includes working in the iGaming and eCommerce sectors, both of which are finance-related, giving me a solid understanding of backend transactions and ACID principles.
+
+I am passionate and curious about coding. If you check my GitHub, you will find projects in Dart, Go, Python, Android with Kotlin, and PHP. I dedicate my free time to research and self-development, making coding my hobby. I am also a football referee at MFA.
 
 - 📫 Feel free to reach me out **furkanaksoylu99@gmail.com**
 <!--Intro end-->
